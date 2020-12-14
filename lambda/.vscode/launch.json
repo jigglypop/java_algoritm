@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - BinaryOperatorExample",
+            "request": "launch",
+            "mainClass": "BinaryOperatorExample",
+            "projectName": "lambda_395f3051"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ThreadRunnable",
+            "request": "launch",
+            "mainClass": "ThreadRunnable",
+            "projectName": "lambda_395f3051"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ThreadLambda",
+            "request": "launch",
+            "mainClass": "ThreadLambda",
+            "projectName": "lambda_395f3051"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Example",
+            "request": "launch",
+            "mainClass": "Example",
+            "projectName": "lambda_395f3051"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ThreadExample",
+            "request": "launch",
+            "mainClass": "ThreadExample",
+            "projectName": "lambda_395f3051"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IntPredicateExample",
+            "request": "launch",
+            "mainClass": "IntPredicateExample",
+            "projectName": "lambda_395f3051"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Max3",
             "request": "launch",
             "mainClass": "Max3",
